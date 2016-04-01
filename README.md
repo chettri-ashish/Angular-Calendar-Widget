@@ -1,5 +1,5 @@
-# Angular-Calendar-Widget
-A calendar widget created in angularJS
+# Angular-Calendar-Widget 
+A calendar widget created in angularJS - 
 I realized that there isn't a proper calendar control on the web for angular JS (available as freeware), apart from angular ui bootstrap
 which has a dependency on bootstrap.css and its related js file. 
 
